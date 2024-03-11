@@ -1,4 +1,4 @@
-# Soai Bejaia Datathon TrainIt Challange : Decode The Vipe : Analyse Social Media Sentiment Using NLP
+# Soai Bejaia Datathon TrainIt Challange : Decode The Vipe,Analyse Social Media Sentiment Using NLP
 
 - My Attemp To Solve The Sentiment Analysis Challenge in the Soai Bejaia Datathon TrainIt Challange : Decode The Vipe : Analyse Social Media Sentiment Using NLP
 
